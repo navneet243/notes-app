@@ -8,8 +8,6 @@ const path = require("path")
 
 const app = express();
 
-// Hello
-
 //middleware
 app.use(express.static("public"));
 app.use(express.json());
