@@ -25,6 +25,3 @@ delete-notes
 #### Edit note
 ![Screenshot (64)](https://user-images.githubusercontent.com/58473785/180499010-31f14ef4-5a4d-4fba-8c96-9b183d383747.png)
 
-
-
-Check it out here- https://nav-notes.herokuapp.com/
